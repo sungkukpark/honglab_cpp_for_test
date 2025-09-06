@@ -1,8 +1,9 @@
+#include <cstdint>
 #include <iostream>
 
 using namespace std;
 
-int main()
+int32_t main()
 {
     cout << "hello, world" << endl;
     return 0;
