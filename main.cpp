@@ -9,8 +9,8 @@ int main()
 }
 
 /*
-1. 확장(Extensions) 설치
-2. C/C++ Edit Configuration 설정
-3. Tasks 설정
-4. Launch 설정
+1. 확장(Extensions) 설치 ["C/C++ Extension Pack"]
+2. C/C++ Edit Configuration 설정 ["c_cpp_properties.json"]
+3. Tasks 설정 ["tasks.json"]
+4. Launch 설정 ["launch.json"]
 */
